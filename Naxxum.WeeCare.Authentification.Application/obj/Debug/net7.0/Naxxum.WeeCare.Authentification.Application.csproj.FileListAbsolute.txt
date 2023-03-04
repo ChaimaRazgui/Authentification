@@ -1,0 +1,15 @@
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\bin\Debug\net7.0\Naxxum.WeeCare.Authentification.Application.deps.json
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\bin\Debug\net7.0\Naxxum.WeeCare.Authentification.Application.dll
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\bin\Debug\net7.0\Naxxum.WeeCare.Authentification.Application.pdb
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\bin\Debug\net7.0\Naxxum.WeeCare.Authentification.Domain.dll
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\bin\Debug\net7.0\Naxxum.WeeCare.Authentification.Domain.pdb
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Application.csproj.AssemblyReference.cache
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Application.AssemblyInfoInputs.cache
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Application.AssemblyInfo.cs
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Application.csproj.CoreCompileInputs.cache
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Application.csproj.CopyComplete
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Application.dll
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\obj\Debug\net7.0\refint\Naxxum.WeeCare.Authentification.Application.dll
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Application.pdb
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Application\obj\Debug\net7.0\ref\Naxxum.WeeCare.Authentification.Application.dll

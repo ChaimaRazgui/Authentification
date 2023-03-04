@@ -1,0 +1,12 @@
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Domain\bin\Debug\net7.0\Naxxum.WeeCare.Authentification.Domain.deps.json
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Domain\bin\Debug\net7.0\Naxxum.WeeCare.Authentification.Domain.dll
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Domain\bin\Debug\net7.0\Naxxum.WeeCare.Authentification.Domain.pdb
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Domain\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Domain.csproj.AssemblyReference.cache
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Domain\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Domain\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Domain.AssemblyInfoInputs.cache
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Domain\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Domain.AssemblyInfo.cs
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Domain\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Domain.csproj.CoreCompileInputs.cache
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Domain\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Domain.dll
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Domain\obj\Debug\net7.0\refint\Naxxum.WeeCare.Authentification.Domain.dll
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Domain\obj\Debug\net7.0\Naxxum.WeeCare.Authentification.Domain.pdb
+D:\WeeCare\WeeCareBack\Naxxum.WeeCare.Authentification.Domain\obj\Debug\net7.0\ref\Naxxum.WeeCare.Authentification.Domain.dll
